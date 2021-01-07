@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ceci007's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&hide_border=true" />
+   ![Ceci's github stats](https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&theme=radical)
 
 </details>
 
