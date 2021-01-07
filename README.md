@@ -51,13 +51,8 @@ Here are some ideas to get you started:
 
 ---
 
-</details>
+![Ceci's github stats](https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&theme=radical)
 
-<details>
-
-   ![Ceci's github stats](https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&theme=radical)
-
-</details>
 
 [website]: https://amazing-colden-98dec5.netlify.app/
 [twitter]: https://twitter.com/CeciDeveloper
