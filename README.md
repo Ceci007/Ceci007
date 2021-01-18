@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Ceci007" width="22px" src="https://www.cecibenitez.com/" />][website]
+[<img align="left" alt="Ceci007" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
 [<img align="left" alt="Ceci007 | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-music.png" />][youtube]
 [<img align="left" alt="Ceci007 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Ceci007 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![Ceci's github stats](https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&theme=radical)
 
 
-[website]: https://amazing-colden-98dec5.netlify.app/
+[website]: https://www.cecibenitez.com/
 [twitter]: https://twitter.com/CeciDeveloper
 [youtube]: https://www.youtube.com/channel/UCsEnYcMvaP-LIi3eNQGKNBw
 [linkedin]: https://www.linkedin.com/in/cecilia-benítez
