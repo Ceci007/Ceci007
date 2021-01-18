@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Ceci007" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
+[<img align="left" alt="Ceci007" width="22px" src="https://www.cecibenitez.com/" />][website]
 [<img align="left" alt="Ceci007 | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-music.png" />][youtube]
 [<img align="left" alt="Ceci007 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Ceci007 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
