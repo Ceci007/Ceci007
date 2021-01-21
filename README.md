@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a Frontend Engineer 
 
 - 🔭 I'm currently working on a React Native app to help you sell stuff you don't need anymore
-- 🌱 I’m currently learning Redux 🤣
+- 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar 
