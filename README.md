@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar 
+- ⚡ Fun fact: I used to play guitar 
 
 ### Connect with me:
 
