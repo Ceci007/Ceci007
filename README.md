@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Ceci's github stats](https://github-readme-stats.vercel.app/api?username=Ceci007&show_icons=true&theme=radical)
-
 
 [website]: https://ceci-benitez.netlify.app/
 [twitter]: https://twitter.com/CeciDeveloper
