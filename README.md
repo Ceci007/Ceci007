@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## I'm a Frontend Engineer 
 
 - 🔭 I'm currently working on a React Native app to help you sell stuff you don't need anymore
-- 🌱 I’m currently learning Redux 
+- 🌱 I want to learn typescript in the future
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I used to play guitar 
+- ⚡ Fun fact: I play guitar as a hobbie
 
 ### Connect with me:
 
