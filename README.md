@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I want to learn typescript in the future
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play guitar as a hobbie
+- ⚡ Fun fact: I can play the guitar
 
 ### Connect with me:
 
