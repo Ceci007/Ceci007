@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## I'm a Frontend Engineer 
 
-- 🔭 I'm currently working on a React Native app to help you sell stuff you don't need anymore
-- 🌱 I want to learn typescript in the future
-- 👯 I’m looking to collaborate with other developers to create a great app
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play the guitar
+- 🔭 I'm currently reviewing my ReactJs skills.
+- 🌱 I want to improve my testing skills.
+- 👯 I’m looking to collaborate with other developers to create a great app.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I can play guitar.
 
 ### Connect with me:
 
