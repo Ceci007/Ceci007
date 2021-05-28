@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Frontend Engineer 
 
-- 🔭 I'm currently reviewing my ReactJs skills.
+- 🔭 I'm currently reviewing my React skills.
 - 🌱 I want to improve my testing skills.
 - 👯 I’m looking to collaborate with other developers to create a great app.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
