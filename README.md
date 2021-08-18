@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ceci  👋
 
-## I'm a Frontend Engineer 
+## I'm a Software Engineer, specialized on front-end development
 
 - 🔭 I'm currently reviewing my React skills.
 - 🌱 I want to improve my software engineer skills.
