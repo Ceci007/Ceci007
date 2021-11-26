@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer, specialized on front-end development
 
-- 🔭 I'm currently reviewing my React skills
+- 🔭 I'm currently learning Typescript
 - 🌱 I want to improve my software engineer skills
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Work for an international company
