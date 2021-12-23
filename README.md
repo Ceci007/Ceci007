@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I want to improve my software engineer skills
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Work for an international company
-- ⚡ Fun fact: I can play the guitar (sort of)
+- ⚡ Fun fact: I can play the guitar
 
 ### Connect with me:
 
