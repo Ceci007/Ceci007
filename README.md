@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ceci  👋
 
-## I'm a Software Engineer, specialized on front-end development
+### I'm a Software Engineer.
+## Specialized on Front-End development.
 
 - 🔭 I'm currently learning Typescript
 - 🌱 I want to improve my software engineer skills
