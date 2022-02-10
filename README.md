@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 > ### I'm a Software Engineer.
 > ### Specialized on Front-End development.
 > _______________________________________________________________________________________________________________
-
 <br></br>
 - 🔭 I'm currently learning Typescript
 - 🌱 I want to improve my software engineer skills
