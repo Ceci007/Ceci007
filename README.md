@@ -15,25 +15,28 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ceci  👋
 
-### I'm a Software Engineer.
-## Specialized on Front-End development.
+> ### I'm a Software Engineer.
+> ### Specialized on Front-End development.
+> _______________________________________________________________________________________________________________
 
+<br></br>
 - 🔭 I'm currently learning Typescript
 - 🌱 I want to improve my software engineer skills
 - 👯 I’m looking to collaborate with other developers to create a great app
 - 🥅 2021 Goals: Work for an international company
 - ⚡ Fun fact: I can play the guitar
+<br></br>
+> ### Connect with me
 
-### Connect with me:
 
 [<img align="left" alt="Ceci007" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
 [<img align="left" alt="Ceci007 | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-music.png" />][youtube]
 [<img align="left" alt="Ceci007 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Ceci007 | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
-<br />
+<br></br>
 
-### Languages and Tools:
+> ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
