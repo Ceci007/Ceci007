@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > ### Specialized on Front-End development.
 > _______________________________________________________________________________________________________________
 <br></br>
-- 🔭 I'm currently learning **Typescript**
+- 🔭 I'm currently learning **GraphQL**
 - 🌱 I want to improve my **software engineer** skills
 - 👯 I’m looking to collaborate with other **developers** to create a great app
 - 🥅 2022 Goals: stay in the same company **at least for 3 years** in a row
