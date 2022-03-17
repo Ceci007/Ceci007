@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ceci  👋
 
-> ### I'm a Software Engineer.
+> ## I'm a Software Engineer.
 > ### Specialized on Front-End development.
 > _______________________________________________________________________________________________________________
 <br></br>
