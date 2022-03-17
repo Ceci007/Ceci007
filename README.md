@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I want to improve my **software engineer** skills
 - 👯 I’m looking to collaborate with other **developers** to create a great app
 - 🥅 2022 Goals: stay in the same company **at least for 3 years** in a row
-- ⚡ Fun fact: I can play the **guitar** (or at least strum it)
+- ⚡ Fun fact: I can play the **guitar**
 <br></br>
 > ### Connect with me
 
