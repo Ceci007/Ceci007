@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 > ## I'm a Software Engineer.
 > ### Specialized on Front-End development.
+> My pronouns are **he/him** and **they/them**
 > _______________________________________________________________________________________________________________
 <br></br>
 - 🔭 I'm currently learning **GraphQL**
