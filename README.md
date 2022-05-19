@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > My pronouns are **he/him** and **they/them**
 > _______________________________________________________________________________________________________________
 <br></br>
-- 🔭 I'm currently learning **GraphQL**
+- 🔭 I'm currently learning **C#**
 - 🌱 I want to improve my **software engineer** skills
 - 👯 I’m looking to collaborate with other **developers** to create a great app
 - 🥅 2022 Goals: stay in the same company **at least for 3 years** in a row
