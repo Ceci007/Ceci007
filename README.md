@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 > _______________________________________________________________________________________________________________
 <br></br>
 - 🔭 I'm currently learning **C#**
-- 🌱 I want to improve my **software engineer** skills
+- 🌱 I want to improve my skills as a **software engineer**
 - 👯 I’m looking to collaborate with other **developers** to create a great app
 - 🥅 2022 Goals: stay in the same company **at least for 3 years** in a row
 - ⚡ Fun fact: I can play the **guitar**
