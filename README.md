@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 > My pronouns are **he/him** and **they/them**
 > _______________________________________________________________________________________________________________
 <br></br>
-- 🔭 I'm currently learning **Node.js**
-- 🌱 I want to improve my skills as a **software engineer**
-- 👯 I’m looking to collaborate with other **developers** to create a brilliant app
-- 🥅 2022 Goals: learn about **Web Development**
-- ⚡ Fun fact: I can play the **guitar** (sort off)
+- 🔭  I'm currently learning **Node.js**
+- 🌱  I want to improve my skills as a **software engineer**
+- 👯  I’m looking to collaborate with other **developers** to create a brilliant app
+- 🥅  2022 Goals: learn about **Web Development**
+- ⚡  Fun fact: I can play the **guitar** (sort off)
 <br></br>
 > ### Connect with me
 
