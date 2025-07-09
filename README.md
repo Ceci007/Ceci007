@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > ## I'm a Software Engineer.
 > ### Specialized on Front-End development.
 > My pronouns are **he/him**, **She/her**, and **they/them**
-> _______________________________________________________________________________________________________________
+> 
 <br></br>
 - 🔭  I'm currently learning **Node.js**
 - 🌱  I want to improve my skills as a **software engineer**
@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
 
 
 [website]: https://ceci-benitez.netlify.app/
